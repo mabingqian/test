@@ -7,4 +7,8 @@ public class ex1Test1{
 	public void say(){
 		System.out.println();
 	}
+        /*this is a hanshu*/
+	public void answer(){
+		System.out.println();
+	}
 }
