@@ -6,4 +6,8 @@ public class ex1Test1{
 	public void say(){
 		System.out.println();
 	}
+
+	public void answer(){
+		System.out.println();
+	}
 }
