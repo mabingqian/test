@@ -6,10 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mango-core" />
+        <module name="mango-demo-api" />
+        <module name="mango-demo-client" />
+        <module name="mango-demo-server" />
+        <module name="mango-registry-zk" />
+        <module name="mango-serializer-fastjson" />
+        <module name="mango-serializer-fst" />
+        <module name="mango-serializer-hessian" />
+        <module name="mango-serializer-jackson" />
+        <module name="mango-serializer-jdk" />
+        <module name="mango-serializer-kryo" />
+        <module name="mango-serializer-msgpack" />
+        <module name="mango-springsupport" />
         <module name="test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="mango" target="1.7" />
+      <module name="mango-core" target="1.7" />
+      <module name="mango-demo" target="1.7" />
+      <module name="mango-demo-api" target="1.7" />
+      <module name="mango-demo-client" target="1.7" />
+      <module name="mango-demo-server" target="1.7" />
+      <module name="mango-registry" target="1.7" />
+      <module name="mango-registry-zk" target="1.7" />
+      <module name="mango-serializer" target="1.7" />
+      <module name="mango-serializer-fastjson" target="1.7" />
+      <module name="mango-serializer-fst" target="1.7" />
+      <module name="mango-serializer-hessian" target="1.7" />
+      <module name="mango-serializer-jackson" target="1.7" />
+      <module name="mango-serializer-jdk" target="1.7" />
+      <module name="mango-serializer-kryo" target="1.7" />
+      <module name="mango-serializer-msgpack" target="1.7" />
+      <module name="mango-springsupport" target="1.7" />
       <module name="test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
