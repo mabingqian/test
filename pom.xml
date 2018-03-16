@@ -92,6 +92,28 @@
                 <enabled>true</enabled>
             </snapshots>
         </repository>
+        <repository>
+            <id>snapshots</id>
+            <name>nexus</name>
+            <url>http://192.168.133.130:9903/nexus/content/groups/public/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+        <repository>
+            <id>deploy</id>
+            <name>nexus</name>
+            <url>http://192.168.133.130:9903/nexus/content/groups/public/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
     </repositories>
     <pluginRepositories>
         <pluginRepository>
@@ -111,15 +133,15 @@
         <repository>
             <id>release</id>
             <name>User Project Release</name>
-            <!--<url>http://192.168.133.130:9903/nexus/content/repositories/releases</url>-->
-            <url>http://192.168.133.130:9903/nexus/content/groups/public</url>
+            <url>http://192.168.133.130:9903/nexus/content/repositories/releases</url>
+            <!--<url>http://192.168.133.130:9903/nexus/content/groups/public</url>-->
         </repository>
 
         <snapshotRepository>
             <id>snapshots</id>
             <name>User Project SNAPSHOTS</name>
-            <!--<url>http://192.168.133.130:9903/nexus/content/repositories/snapshots</url>-->
-            <url>http://192.168.133.130:9903/nexus/content/groups/public</url>
+            <url>http://192.168.133.130:9903/nexus/content/repositories/snapshots</url>
+            <!--<url>http://192.168.133.130:9903/nexus/content/groups/public</url>-->
         </snapshotRepository>
     </distributionManagement>
 
