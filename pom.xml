@@ -76,6 +76,12 @@
             <artifactId>spring-jdbc</artifactId>
             <version>${spring.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5</version>
+        </dependency>
     </dependencies>
 
 
@@ -84,7 +90,7 @@
         <repository>
             <id>release</id>
             <name>nexus</name>
-            <url>http://192.168.133.130:9903/nexus/content/groups/public/</url>
+            <url>http://jackma.cn/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -95,7 +101,7 @@
         <repository>
             <id>snapshots</id>
             <name>nexus</name>
-            <url>http://192.168.133.130:9903/nexus/content/groups/public/</url>
+            <url>http://jackma.cn/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -106,7 +112,7 @@
         <repository>
             <id>deploy</id>
             <name>nexus</name>
-            <url>http://192.168.133.130:9903/nexus/content/groups/public/</url>
+            <url>http://jackma.cn/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -119,7 +125,7 @@
         <pluginRepository>
             <id>snapshots</id>
             <name>nexus</name>
-            <url>http://192.168.133.130:9903/nexus/content/groups/public/</url>
+            <url>http://jackma.cn/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -133,14 +139,14 @@
         <repository>
             <id>release</id>
             <name>User Project Release</name>
-            <url>http://192.168.133.130:9903/nexus/content/repositories/releases</url>
+            <url>http://jackma.cn/nexus/content/repositories/releases</url>
             <!--<url>http://192.168.133.130:9903/nexus/content/groups/public</url>-->
         </repository>
 
         <snapshotRepository>
             <id>snapshots</id>
             <name>User Project SNAPSHOTS</name>
-            <url>http://192.168.133.130:9903/nexus/content/repositories/snapshots</url>
+            <url>http://jackma.cn/nexus/content/repositories/snapshots</url>
             <!--<url>http://192.168.133.130:9903/nexus/content/groups/public</url>-->
         </snapshotRepository>
     </distributionManagement>
