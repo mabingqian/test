@@ -1,6 +1,7 @@
 /home/jack/project/test/src/main/java/DesignPattern/AbstractFactoryPattern/Factorys/AbstractFactory.java
 /home/jack/project/test/src/main/java/DesignPattern/FactoryPattern/ShapeFactory.java
 /home/jack/project/test/src/main/java/DesignPattern/SingletonPattern/SingleObject.java
+/home/jack/project/test/src/main/java/ZOOKEEPER/DistributedLock.java
 /home/jack/project/test/src/main/java/DesignPattern/AbstractFactoryPattern/Factorys/ShapeFactory.java
 /home/jack/project/test/src/main/java/DesignPattern/FactoryPattern/Circle.java
 /home/jack/project/test/src/main/java/DesignPattern/SingletonPattern/SingletonPatternDemo.java
@@ -11,7 +12,6 @@
 /home/jack/project/test/src/main/java/DesignPattern/FactoryPattern/FactoryPatternDemo.java
 /home/jack/project/test/src/main/java/DesignPattern/AbstractFactoryPattern/Factorys/FactoryProducer.java
 /home/jack/project/test/src/main/java/DesignPattern/FactoryPattern/Square.java
-/home/jack/project/test/src/main/java/Factorizer.java
 /home/jack/project/test/src/main/java/DesignPattern/FactoryPattern/Shape.java
 /home/jack/project/test/src/main/java/DesignPattern/FactoryPattern/Rectangle.java
 /home/jack/project/test/src/main/java/DesignPattern/AbstractFactoryPattern/colors/Color.java
@@ -19,5 +19,4 @@
 /home/jack/project/test/src/main/java/DesignPattern/AbstractFactoryPattern/shapes/Circle.java
 /home/jack/project/test/src/main/java/DesignPattern/AbstractFactoryPattern/colors/Red.java
 /home/jack/project/test/src/main/java/DesignPattern/AbstractFactoryPattern/colors/Green.java
-/home/jack/project/test/src/main/java/ex1Test1.java
 /home/jack/project/test/src/main/java/DesignPattern/AbstractFactoryPattern/Factorys/ColorFactory.java

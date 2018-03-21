@@ -2,14 +2,13 @@ DesignPattern/AbstractFactoryPattern/colors/Red.class
 DesignPattern/AbstractFactoryPattern/shapes/Rectangle.class
 DesignPattern/FactoryPattern/Rectangle.class
 DesignPattern/AbstractFactoryPattern/colors/Green.class
-ex1Test1.class
 DesignPattern/FactoryPattern/ShapeFactory.class
 DesignPattern/AbstractFactoryPattern/colors/Color.class
 Pra6/TaskExecutionWebServer$1.class
+ZOOKEEPER/DistributedLock.class
 DesignPattern/AbstractFactoryPattern/shapes/Square.class
 DesignPattern/AbstractFactoryPattern/Factorys/ShapeFactory.class
 Pra6/TaskExecutionWebServer.class
-Factorizer.class
 DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternDemo.class
 DesignPattern/FactoryPattern/Circle.class
 DesignPattern/SingletonPattern/SingletonPatternDemo.class
