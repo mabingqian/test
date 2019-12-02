@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/../mango" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-core" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-demo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-demo/mango-demo-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-demo/mango-demo-client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-demo/mango-demo-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-registry" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-registry/mango-registry-zk" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-serializer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-serializer/mango-serializer-fastjson" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-serializer/mango-serializer-fst" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-serializer/mango-serializer-hessian" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-serializer/mango-serializer-jackson" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-serializer/mango-serializer-jdk" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-serializer/mango-serializer-kryo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-serializer/mango-serializer-msgpack" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mango/mango-springsupport" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
   </component>
 </project>
